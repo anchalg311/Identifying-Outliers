@@ -1,4 +1,4 @@
-#Chapter 2 exercise ques 13-26
+
 StockPrice<- c(10,7,20,12,75,15,9,18,4,12,8,14)
 StockPrice
 summary(StockPrice)
